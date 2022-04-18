@@ -2,6 +2,9 @@
 
 Linked list are the type of Data Structure which stores data in non-contiguous way. It stores the data in the form of Node which consist of a property to save data and a pointer which points to the address of next node.
 
+<img width="720" alt="Screen Shot 2022-04-18 at 11 28 17 AM" src="https://user-images.githubusercontent.com/42216978/163762325-a3e10c75-e998-4423-a718-5324061c5bae.png">
+
+
 There are major of 6 operations on Linked List
 - Appending a Node.
 - Prepending a Node.
