@@ -27,4 +27,4 @@ Applications
 - We can use this DS to implement stack and queue as well.
 - Linked List can also be used to implement Graphs and Trees as well.
 - It can also be used to implement hash tables.
-- Functionalities like Undo/Redo can be done using
+- Functionalities like Undo/Redo can be done using.
