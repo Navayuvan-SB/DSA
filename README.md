@@ -3,11 +3,11 @@ This repo consist of the Complete DSA meterials which I prepare for my use.
 
 These are the topics which I got from a youtube channel and here are my progress on them,
 
-- [ ] Stack
-- [ ] Queue
-- [ ] Circular Queue
-- [ ] Singly Linked List
-- [ ] Doubly Linked List
+- [x] Stack
+- [x] Queue
+- [x] Circular Queue
+- [x] Singly Linked List
+- [x] Doubly Linked List
 - [ ] Circular Linked List
 - [ ] Linear Search
 - [ ] Binary Search
