@@ -8,7 +8,7 @@ These are the topics which I got from a youtube channel and here are my progress
 - [x] Circular Queue
 - [x] Singly Linked List
 - [x] Doubly Linked List
-- [ ] Circular Linked List
+- [x] Circular Linked List
 - [ ] Linear Search
 - [ ] Binary Search
 - [ ] Selection Sort
