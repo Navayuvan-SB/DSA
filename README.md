@@ -9,7 +9,7 @@ These are the topics which I got from a youtube channel and here are my progress
 - [x] Singly Linked List
 - [x] Doubly Linked List
 - [x] Circular Linked List
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Binary Search
 - [ ] Selection Sort
 - [ ] Insertion Sort
