@@ -1,4 +1,4 @@
-# DSA
+# DSA - Progress Sheet
 This repo consist of the Complete DSA meterials which I prepare for my use.
 
 These are the topics which I got from a youtube channel and here are my progress on them,
